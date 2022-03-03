@@ -1,6 +1,6 @@
 # CH552Xiao2
 
-<img src="https://github.com/akita11/CH552Xiao2/blob/main/CH552Xiao2.png" width="240px">
+<img src="https://github.com/akita11/CH552Xiao2/blob/main/CH552Xiao2.jpg" width="240px">
 
 [WCH(南京沁恒微电子股份有限公司)](http://wch-ic.com/)の8ビットマイコン[CH552](http://wch-ic.com/products/CH552.html)を使った、Seeeduino Xiao型のマイコンボードです。
 主な特徴は以下のとおりです。
@@ -22,7 +22,7 @@ v1である[CH552Xiao](https://github.com/akita11/CH552Xiao)からピン配置�
 
 <img src="https://github.com/akita11/CH552Xiao2/blob/main/CH552Xiao2_pin.png" width="720px">
 
-<img src="https://github.com/akita11/CH552Xiao2/blob/main/CH552Xiao2_Back.png" width="240px">
+<img src="https://github.com/akita11/CH552Xiao2/blob/main/CH552Xiao2_Back.jpg" width="240px">
 
 基板上の"LED"（オレンジ）はP3.0で駆動できます。
 
